@@ -14,6 +14,7 @@ train model模块：使用特征文件生成正负样本，然后训练并保存
     --ticket_path： 维修单路径
     --model_path： 模型保存路径
 
+
 inference模块：使用特征文件生成测试集，并加载模型进行推理
     --feature_path： 特征文件路径
     --model_path： 模型保存路径
